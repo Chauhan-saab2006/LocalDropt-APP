@@ -18,7 +18,7 @@ LocalDrop is a local cross-platform file transfer tool that runs a local HTTP se
 
 ## Installation
 
-Download the latest executable here: [Local-drop.exe](./Local-drop.exe)
+Download the latest executable here: [Local-drop.exe](https://github.com/Chauhan-saab2006/LocalDropt-APP/raw/main/Local-drop.exe)
 
 ## Getting Started
 
