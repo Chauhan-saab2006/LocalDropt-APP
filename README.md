@@ -42,3 +42,8 @@ Download the latest executable here: [Local-drop.exe](https://github.com/Chauhan
 2. Ensure both the PC and phone are on the same Wi-Fi network.
 3. Scan the QR code with your phone or navigate to the displayed URL.
 4. Upload files from the phone to the PC or download shared files from the PC to the phone.
+
+
+
+ ## Code Signing
+   See [CODE_SIGNING.md](.signpath/CODE_SIGNING.md) for how LocalDrop signs its Windows releases.
