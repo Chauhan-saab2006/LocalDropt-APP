@@ -16,7 +16,12 @@ LocalDrop is a local cross-platform file transfer tool that runs a local HTTP se
 - **Desktop Frontend**: Vanilla HTML/JS/CSS.
 - **Mobile Frontend**: A mobile-friendly web page served directly from the Rust backend.
 
+## Installation
+
+Download the latest executable here: [Local-drop.exe](./Local-drop.exe)
+
 ## Getting Started
+
 
 1. Navigate to `windows-app`:
    ```bash
