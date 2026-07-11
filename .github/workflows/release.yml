@@ -6,6 +6,9 @@ on:
       - "v*.*.*"   # triggers on tags like v1.0.0, v1.2.3, etc.
   workflow_dispatch:  # allows manual trigger from the Actions tab
 
+permissions:
+  contents: write   # required so the workflow can create/attach GitHub Releases
+
 jobs:
   build-windows:
     runs-on: windows-latest
