@@ -1,0 +1,16 @@
+# Node dependencies
+node_modules/
+
+# Tauri build artifacts
+src-tauri/target/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDE specific
+.vscode/
+.idea/
+
+# Large test files
+large_test_file.bin
